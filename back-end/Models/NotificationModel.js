@@ -1,0 +1,1 @@
+// NotificationModel.js placeholder content

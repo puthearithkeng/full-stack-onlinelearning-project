@@ -1,0 +1,1 @@
+// QuizRoute.js placeholder content

@@ -1,0 +1,1 @@
+// QuizezModel.js placeholder content

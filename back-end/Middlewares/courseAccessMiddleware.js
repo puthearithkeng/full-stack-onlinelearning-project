@@ -1,0 +1,1 @@
+// courseAccessMiddleware.js placeholder content

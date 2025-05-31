@@ -1,0 +1,1 @@
+// CertificateRoute.js placeholder content

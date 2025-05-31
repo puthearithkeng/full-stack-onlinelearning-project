@@ -1,0 +1,1 @@
+// ContentRoute.js placeholder content

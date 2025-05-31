@@ -1,0 +1,1 @@
+// CourseContentModel.js placeholder content

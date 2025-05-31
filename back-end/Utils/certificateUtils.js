@@ -1,0 +1,1 @@
+// certificateUtils.js placeholder content

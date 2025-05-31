@@ -1,0 +1,1 @@
+// CertificateModel.js placeholder content

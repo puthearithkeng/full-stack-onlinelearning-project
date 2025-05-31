@@ -1,0 +1,1 @@
+// Associations.js placeholder content

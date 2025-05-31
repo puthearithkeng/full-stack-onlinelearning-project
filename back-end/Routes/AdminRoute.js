@@ -1,0 +1,1 @@
+// AdminRoute.js placeholder content

@@ -1,0 +1,1 @@
+// CourseContentController.js placeholder content

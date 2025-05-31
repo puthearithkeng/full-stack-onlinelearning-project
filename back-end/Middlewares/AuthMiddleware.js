@@ -1,0 +1,1 @@
+// AuthMiddleware.js placeholder content

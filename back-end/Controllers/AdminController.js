@@ -1,0 +1,1 @@
+// AdminController.js placeholder content

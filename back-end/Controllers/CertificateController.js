@@ -1,0 +1,1 @@
+// CertificateController.js placeholder content

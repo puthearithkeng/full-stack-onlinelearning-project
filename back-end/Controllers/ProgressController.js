@@ -1,0 +1,1 @@
+// ProgressController.js placeholder content

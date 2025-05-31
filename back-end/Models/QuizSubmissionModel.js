@@ -1,0 +1,1 @@
+// QuizSubmissionModel.js placeholder content

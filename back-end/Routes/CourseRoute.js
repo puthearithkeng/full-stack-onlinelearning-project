@@ -1,0 +1,1 @@
+// CourseRoute.js placeholder content
